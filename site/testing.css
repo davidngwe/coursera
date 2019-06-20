@@ -1,0 +1,11 @@
+div.makeMeBlue p{
+	color: blue;
+}
+
+.makeMeBlue > p{
+	color: blue;
+}
+
+div > div > p{
+	color: blue;
+}
